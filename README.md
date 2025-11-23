@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**ogmyste/ogmyste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **OGMyste**, a **Full-stack Developer** from Ukraine 🇺🇦.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ My Tech Stack
+
+### 💻 Languages
+* C
+* C++
+* C#
+* JavaScript
+* TypeScript
+* Elixir
+* Python
+* NodeJS
+
+### 🚀 Frameworks & Libraries
+* Phoenix
+* Angular
+* Next.js
+* Nest.js
+* React.js
+
+---
+
+## 🌐 Connect & Projects
+
+You can find more details about my **projects** and **how to contact me** on my personal website:
+
+✨ [ogmyste.org](https://ogmyste.org)
+
+---
