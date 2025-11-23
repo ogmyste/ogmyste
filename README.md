@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **OGMyste**, a **Full-stack Developer** from Ukraine 🇺🇦.
+I'm **OGMyste**, a **Full-stack Developer** from Ukraine 🇺🇦 (currently in Estonia 🇪🇪).
 
 ---
 
